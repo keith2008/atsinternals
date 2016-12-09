@@ -179,4 +179,4 @@ UDP 相关：
 因此，Net子系统的用户在使用SSL相关的功能时，都需要将NetVConnection动态转换为SSLNetVConnection类型才可以进行调用，这些都打破了原有系统的良好设计。
 
 注：上述分析由于包含大量猜测，只是本人个人理解。
-
+Hello keith
